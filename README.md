@@ -20,5 +20,10 @@ Tic Tac Toe is a two-player game built using Python GUI
 * Program checks winning condition
 * Winner or Draw message appears
 * Game reset automatically
-##### How to Run Our Game
+##### Advantage
+* Easy GUI learning
+* Event handling practice
+* Beginner Python project
+* Useful for viva & Practical Exam
+
 
