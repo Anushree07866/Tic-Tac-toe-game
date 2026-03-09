@@ -13,3 +13,12 @@ Tic Tac Toe is a two-player game built using Python GUI
 * Event Driven Programming
 * GUI Design
 * Tkinter Widgets
+#### Working Principle
+* Window opens with 3*3 board
+* Player X clicks first
+* Player alternate turns
+* Program checks winning condition
+* Winner or Draw message appears
+* Game reset automatically
+##### How to Run Our Game
+
